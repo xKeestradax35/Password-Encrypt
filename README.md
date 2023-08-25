@@ -25,13 +25,13 @@ John recently updated his Google account's password as part of a regular securit
 Clone Password Encrypt
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/xKeestradax35/Password-Encrypt
 ```
 
 Go to the project directory
 
 ```bash
-  cd PasswordEncrypt
+  cd Password-Encrypt
 ```
 
 Install dependencies
