@@ -3,10 +3,6 @@
 
 Keep your passwords secure and always at your fingertips with Password Encrypt. Store and manage all your passwords locally on your device with state-of-the-art encryption, ensuring both convenience and top-notch security.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Features
 
